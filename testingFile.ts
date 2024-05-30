@@ -1,1 +1,1 @@
-const hello_world = "hello world"
+const hello_world = "hello world second time xD"
